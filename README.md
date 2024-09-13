@@ -1,4 +1,4 @@
-# fam_flutter_xp
+# fam_flutter_module_xp
 
 A new Flutter Module project.
 
